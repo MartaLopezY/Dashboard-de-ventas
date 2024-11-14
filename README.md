@@ -1,4 +1,4 @@
-# Dashboard-de-ventas
+# Dashboard de ventas
 Este proyecto es un Tablero de Visualización de Datos desarrollado con JavaScript, Bootstrap y D3.js. La aplicación simula un sistema de dashboard interactivo para visualizar datos de ventas, proporcionando gráficos de líneas, pastel y barras para analizar las tendencias de ventas mensuales, participación por categoría de producto y comparación de ventas entre categorías.
 Objetivo: Practicar la integración de Bootstrap para crear una interfaz de usuario agradable, D3.js para visualización de datos y JavaScript para gestionar la lógica interactiva.
 
