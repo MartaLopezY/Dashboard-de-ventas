@@ -4,11 +4,18 @@ Objetivo: Practicar la integración de Bootstrap para crear una interfaz de usua
 
 # Características
 Gráfico de Líneas: Muestra la evolución de las ventas mensuales.
+
 Gráfico de Pastel: Visualiza la participación de cada categoría de producto en las ventas totales.
+
 Gráfico de Barras: Compara las ventas totales de cada categoría de producto.
+
 Bootstrap: Diseño adaptable y responsivo para una interfaz de usuario moderna.
+
 D3.js: Gráficos dinámicos y altamente personalizables.
+
 # Tecnologías Utilizadas
 JavaScript: Lógica interactiva y manipulación de DOM.
+
 Bootstrap: Estilos y estructura de diseño.
+
 D3.js: Creación de gráficos visuales interactivos.
