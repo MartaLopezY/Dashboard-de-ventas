@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dashboard de Ventas</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <link href="styles.css">
+  <script src="https://d3js.org/d3.v6.min.js"></script>
+  <script src="script.js" defer></script>
+</head>
+<body>
+
+  <div class="container">
+    <h2>Dashboard de Ventas</h2>
+    <div class="row">
+      <div class="col-md-6 chart-container">
+        <h4>Ventas por Mes</h4>
+        <div id="lineChart"></div>
+      </div>
+      <div class="col-md-6 chart-container">
+        <h4>Participación por Categoría</h4>
+        <div id="pieChart"></div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-12 chart-container">
+        <h4>Comparación de Categorías</h4>
+        <div id="barChart"></div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
+
